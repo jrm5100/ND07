@@ -1,0 +1,1 @@
+ * Used this site to calculate sample sizes: http://www.evanmiller.org/ab-testing/sample-size.html
